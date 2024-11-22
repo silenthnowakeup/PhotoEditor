@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "330456382256",
+    "project_id": "photo-editor-67d18",
+    "storage_bucket": "photo-editor-67d18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330456382256:android:52d565094a557022d9e6f5",
+        "android_client_info": {
+          "package_name": "com.example.photo_editor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOw2BtYTIz9n6wUY-dC80XRn8kEbvnvDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
